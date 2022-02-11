@@ -1,0 +1,4 @@
+CPU: Ryzen 9 6800 X
+GPU: RTX 3090
+Mainboard: Corsair idk mate
+RAM: 128 gb 4000mhz
