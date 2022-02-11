@@ -1,0 +1,2 @@
+CPU: Ryzen 9 6800 X
+GPU: RTX 3090
